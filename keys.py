@@ -1,6 +1,6 @@
 
-news_api_key = 'Your_newsApi_key'
-telegram_key = 'bot_your_botNo:your_Bot_key'
+news_api_key = c0ecc3b9314c434c9ab17d08e25838b6
+telegram_key = 1754843387:AAGT-cSOqlmW4M22BNH-5a2vTwZ49AtYovg
 
 def get_news_api_key():
 	
